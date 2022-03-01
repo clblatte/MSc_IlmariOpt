@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*.zip
+*.csv
+*.txt
+!globiom1p5_all.csv
+!globiomLTS_all.csv
+!globiomNDC_all.csv
+*.json
+*.lp
+*.h5

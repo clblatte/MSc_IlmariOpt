@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 *.zip
 !sample_central_fin_rcp45.zip
+!sample_central_fin_rcp0.zip
 *.csv
 *.txt
 !globiom1p5_all.csv
